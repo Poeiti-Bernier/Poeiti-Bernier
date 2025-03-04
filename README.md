@@ -1,20 +1,20 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Placeholder! <br/><a 
+<h1>Hi, I'm Poeiti! <br/><a 
+
+- 🔭 I'm currently working on a new data project on renewable energies.
+- 🌱 I'm currently learning how to better use Power BI
+- 😄 Pronouns: She/Her
+
+# My Tools
+
+![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 
 # My Portfolio
 
 Welcome to my portfolio! Here you can find my projects and details about my experience.
-![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
-![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
 ## Download My CV
@@ -36,20 +36,15 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Mes projets
-### Projet 1 : Analyse du catalogue Netflix vs. Attentes des abonnés  
-- **Description** : Analyse de l'adéquation entre le catalogue Netflix et les préférences des utilisateurs en utilisant le rapport *What We Want*. Scraping des contenus Netflix et comparaison avec les tendances des abonnés.  
-- **Technologies** : Python, BeautifulSoup, pandas, Matplotlib, SQL. 
+### Projet 1 : Analyse de la performance d'une ligne industrielle d'emboutissage de Stellantis  
+- **Description** : Création d'un dashboard efficace pour repérer les anomalies de performances de les lignes de presse.
+- **Technologies** : Python, pandas, numpy, PowerBI. 
 - [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
 
-### Projet 2 : Analyse des sentiments sur Twitter
-- **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
-- **Technologies** : BeautifulSoup, pandas, scikit-learn, WordCloud.
-- **Lien vers le projet** : [lien vers le projet GitHub]()
-
-### Projet 3 : Prévision des stocks avec des séries temporelles
-- **Description** : Application de modèles de séries temporelles pour prévoir les niveaux de stock d'un produit.
-- **Technologies** : Python, statsmodels, Matplotlib.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
+### Projet 2 : Analyse des énergies renouvelables
+- **Description** : Utilisation d'une base de données Kaggle pour explorer le mix énergétique. Problématique à venir.
+- **Technologies** : En cours
+- **Lien vers le projet** : En cours
   
 <h2> 🤳 Connect with me:</h2>
 
@@ -58,27 +53,15 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/poeiti-bernier/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-Code to use : 
+<!--Code to use : 
 # Header Examples
 
 # H1 Header
@@ -122,3 +105,4 @@ Code to use :
 
 ### Image
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+-->
