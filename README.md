@@ -2,7 +2,7 @@
 
 Hi, I'm Poeiti!
 
-- 🔭 I'm currently working on a new data project on renewable energies.
+- 🔭 I'm currently working on my Power BI skills
 - 🌱 I'm currently learning how to better use Power BI
 - 😄 Pronouns: She/Her
 
@@ -26,12 +26,12 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ### Projet 1 : Analyse de la performance d'une ligne industrielle d'emboutissage de Stellantis  
 - **Description** : Création d'un dashboard efficace pour repérer les anomalies de performances de les lignes de presse.
 - **Technologies** : Python, pandas, numpy, PowerBI. 
-- [Lien vers le projet](https://github.com/Yacine-Hamdi/Netflix)
+- [Lien vers le projet]([https://github.com/Poeiti-Bernier/Stellantis])
 
 ### Projet 2 : Analyse des énergies renouvelables
-- **Description** : Utilisation d'une base de données Kaggle pour explorer le mix énergétique. Problématique à venir.
-- **Technologies** : En cours
-- **Lien vers le projet** : En cours
+- **Description** : Création d'un dashboard pour faire le point sur le marché des énergies renouvelables
+- **Technologies** : PowerBI
+- **Lien vers le projet** : 
   
 <h2> 🤳 Connect with me:</h2>
 
