@@ -26,12 +26,12 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ### Projet 1 : Analyse de la performance d'une ligne industrielle d'emboutissage de Stellantis  
 - **Description** : Création d'un dashboard efficace pour repérer les anomalies de performances de les lignes de presse.
 - **Technologies** : Python, pandas, numpy, PowerBI. 
-- [Lien vers le projet]([https://github.com/Poeiti-Bernier/Stellantis])
+- [Lien vers le projet](https://github.com/Poeiti-Bernier/Stellantis)
 
 ### Projet 2 : Analyse des énergies renouvelables
 - **Description** : Création d'un dashboard pour faire le point sur le marché des énergies renouvelables
 - **Technologies** : PowerBI
-- **Lien vers le projet** : 
+- **Lien vers le projet** : (https://github.com/Poeiti-Bernier/Renewable-energies-market-2010-2024)
   
 <h2> 🤳 Connect with me:</h2>
 
