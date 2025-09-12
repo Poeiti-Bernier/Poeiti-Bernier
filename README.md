@@ -3,7 +3,7 @@
 Hi, I'm Poeiti!
 
 - 🔭 I'm currently working on my Power BI skills
-- 🌱 I'm currently learning how to better use Power BI
+- 🌱 I'm currently learning how to better use Power BI & learning DBT
 - 😄 Pronouns: She/Her
 
 # My Tools
