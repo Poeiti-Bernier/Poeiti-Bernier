@@ -28,14 +28,16 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 - **Technologies** : Python, pandas, numpy, PowerBI. 
 - [Lien vers le projet](https://github.com/Poeiti-Bernier/Stellantis)
 
-### Projet 2 : Analyse des énergies renouvelables
+### Projet 2 : Analyse du marché des énergies renouvelables
 - **Description** : Création d'un dashboard pour faire le point sur le marché des énergies renouvelables
 - **Technologies** : PowerBI
 - [Lien vers le projet](https://github.com/Poeiti-Bernier/Renewable-energies-market-2010-2024)
+
+### Projet 3 (à venir) : Dashboard sur la rétention des clients
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: [https://www.linkedin.com/in/poeiti-bernier/]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/poeiti-bernier/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
