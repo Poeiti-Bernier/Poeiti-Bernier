@@ -31,7 +31,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ### Projet 2 : Analyse des énergies renouvelables
 - **Description** : Création d'un dashboard pour faire le point sur le marché des énergies renouvelables
 - **Technologies** : PowerBI
-- **Lien vers le projet** : (https://github.com/Poeiti-Bernier/Renewable-energies-market-2010-2024)
+- [Lien vers le projet](https://github.com/Poeiti-Bernier/Renewable-energies-market-2010-2024)
   
 <h2> 🤳 Connect with me:</h2>
 
