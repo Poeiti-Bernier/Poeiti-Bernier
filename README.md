@@ -2,7 +2,7 @@
 
 Hi, I'm Poeiti!
 
-- 🔭 I'm starting a new data analysis project, framework and brainstorming on-going
+- 🔭 I'm starting a new data analysis project, data cleaning on-going
 - 🌱 I started learning DBT
 - 😄 Pronouns: She/Her
 
@@ -24,18 +24,22 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Mes projets
 ### Projet 1 : Analyse de la performance d'une ligne industrielle d'emboutissage de Stellantis  
-- **Description** : Création d'un dashboard efficace pour repérer les anomalies de performances de les lignes de presse.
-- **Technologies** : Python, pandas, numpy, PowerBI. 
+- **Description** : Création d'un dashboard efficace pour repérer les anomalies de performances de les lignes de presse
+- **Technologies** : Python, pandas, numpy, PowerBI
+- **Statut** : Terminé
 - [Lien vers le projet](https://github.com/Poeiti-Bernier/Stellantis)
 
 ### Projet 2 : Analyse du marché des énergies renouvelables
 - **Description** : Création d'un dashboard pour faire le point sur le marché des énergies renouvelables
 - **Technologies** : PowerBI
+- **Statut** : Terminé (potentiel retour pour un KPI)
 - [Lien vers le projet](https://github.com/Poeiti-Bernier/Renewable-energies-market-2010-2024)
 
 ### Projet 3 (en cours): Les ventes de jeux vidéo sur Steam 
 - **Description** : Etude des tendances des ventes des jeux vidéos et si on peut définir les clés d'un succès
-- **Technologies** : A définir
+- **Technologies** : Python, Power BI
+- **Statut** : Data Cleaning en cours
+- Lien à venir
   
 <h2> 🤳 Connect with me:</h2>
 
