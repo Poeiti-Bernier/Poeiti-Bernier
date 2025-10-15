@@ -2,8 +2,8 @@
 
 Hi, I'm Poeiti!
 
-- 🔭 I'm currently working on my Power BI skills
-- 🌱 I'm currently learning how to better use Power BI & learning DBT
+- 🔭 I'm starting a new data analysis project, framework and brainstorming on-going
+- 🌱 I started learning DBT
 - 😄 Pronouns: She/Her
 
 # My Tools
@@ -33,7 +33,9 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 - **Technologies** : PowerBI
 - [Lien vers le projet](https://github.com/Poeiti-Bernier/Renewable-energies-market-2010-2024)
 
-### Projet 3 (à venir) : Dashboard sur la rétention des clients
+### Projet 3 (en cours): Les ventes de jeux vidéo sur Steam 
+- **Description** : Etude des tendances des ventes des jeux vidéos et si on peut définir les clés d'un succès
+- **Technologies** : A définir
   
 <h2> 🤳 Connect with me:</h2>
 
